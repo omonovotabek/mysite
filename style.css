@@ -314,6 +314,21 @@ section {
   background: #6D7EB8;
 }
 
+.skills .node::before {
+  width: 60%;
+  background: #0c39cb;
+}
+
+.skills .express::before {
+  width: 70%;
+  background: #2c920a;
+}
+
+.skills .mongoDb::before {
+  width: 65%;
+  background: #53e821;
+}
+
 .services .content {
   display: flex;
   justify-content: center;
